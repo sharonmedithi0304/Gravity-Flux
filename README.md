@@ -1,8 +1,11 @@
 # 🚀 Gravity Flux
 
 An interactive gravity simulation built using JavaScript.
+_____
+    ------
 DEMO link:https://sharonmedithi0304.github.io/Gravity-Flux/
-
+    ------
+______
 For better experience on deskptop click --->   fn + f11
 
 ## 🔥 Features
