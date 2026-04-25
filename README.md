@@ -1,30 +1,22 @@
-# Personal Portfolio Website
+# 🚀 Gravity Flux
 
-## 📌 About
-This is my personal portfolio website built to showcase my skills, projects, and contact information. It is designed to be responsive and user-friendly across different devices.
+An interactive gravity simulation built using JavaScript.
+DEMO:
 
-## 🛠️ Tech Stack
-- HTML5
-- CSS3
+## 🔥 Features
+- Toggle gravity ON/OFF
+- Smooth animation
+- Interactive behavior
+
+## 🛠 Tech Stack
+- HTML
+- CSS
 - JavaScript
 
-## ✨ Features
-- Responsive design for mobile and desktop
-- Smooth navigation between sections
-- Projects showcase section
-- Contact section
+## 📸 Preview
 
-## 🚀 Live Demo
-🔗 https://sharonmedithi0304.github.io/New.portfofilo/
+### Gravity ON
+![Gravity On](preview-gravity-on.png)
 
-## 📂 Project Structure
-├── index.html  
-├── style.css  
-├── script.js  
-
-## ⚙️ How to Run Locally
-1. Clone the repository  
-2. Open index.html in your browser  
-
-## 📸 Screenshots
-(Add your screenshots here after uploading them)
+### Gravity OFF
+![Gravity Off](preview-gravity-off.png)
