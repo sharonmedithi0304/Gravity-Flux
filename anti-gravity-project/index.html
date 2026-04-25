@@ -2,13 +2,18 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Anti Gravity Playground</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gravity Flux</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <h1>Gravity Flux</h1>
-    <p>Interactive gravity simulation built with JavaScript</p>
+
+    <!-- Hero Section -->
+    <div id="hero">
+        <h1>Gravity Flux</h1>
+        <p>Interactive physics playground with real-time gravity simulation</p>
+    </div>
 
     <!-- Physics container -->
     <div id="container"></div>
@@ -19,7 +24,11 @@
         <button onclick="clearBoxes()">Clear</button>
     </div>
 
-    <!-- Script at bottom -->
+    <!-- Footer Info -->
+    <div id="info">
+        Click anywhere to spawn boxes • Drag to throw • Toggle gravity
+    </div>
+
     <script src="script.js"></script>
 
 </body>
