@@ -3,10 +3,11 @@
 An interactive physics playground built using HTML, CSS, and JavaScript.  
 Simulates gravity, collisions, and real-time user interaction in a dynamic environment.
 
+----
+
 ## 🔗 Live Demo
 👉 https://sharonmedithi0304.github.io/Gravity-Flux/
-
-
+FOR BETTER EXPERIENCE IN DESKTOP CLICK ---> fn + f11
 ----
 
 ### Gravity ON
